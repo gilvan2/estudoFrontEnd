@@ -1,0 +1,2 @@
+Entities html -> caracteries especiais em html 
+fonte https://www.w3schools.com/html/html_entities.asp
