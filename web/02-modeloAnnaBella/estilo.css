@@ -24,6 +24,15 @@ a {
 	padding: 5px;
 }
 
+h1 {
+	color: 828271; /* TODO - Essa cor não esta aparecendo nos h1's, procurar o motivo*/
+	font-size: 1.2em;
+}
+
 .centralizar {
 	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
 }
